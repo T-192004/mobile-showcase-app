@@ -1,0 +1,22 @@
+.contacts-icon-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  rotate: 270deg;
+  width: 25%;
+  justify-content: center;
+  align-self: center;
+}
+.line {
+  border: 1px solid #000000;
+  background-color: #000000;
+  width: 180px;
+  height: 1px;
+  margin: 0px;
+}
+.icons {
+  width: 80px;
+  height: 80px;
+  rotate: 90deg;
+  margin: 0px 10px 0px 10px;
+}

@@ -1,0 +1,14 @@
+.box-container {
+  max-width: 312.66px;
+  height: 482.57px;
+  opacity: 0px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: #92e3a9 5px 5px;
+  background-color: #92e3a9;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}

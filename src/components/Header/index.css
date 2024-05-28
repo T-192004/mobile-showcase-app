@@ -1,0 +1,26 @@
+.navbar {
+  background-color: transparent;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 40%;
+  height: 25px;
+  list-style: none;
+}
+.nav-list-item {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 25px;
+  text-align: left;
+  color: #070707;
+}
